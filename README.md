@@ -1,4 +1,5 @@
 **App Live Link:** https://ai-stock-portfolio-council-872747958244.us-west1.run.app/
+<img width="532" height="908" alt="image" src="https://github.com/user-attachments/assets/5263713c-61c7-4972-a70b-a243d252c965" />
 
 ## Run Locally
 
