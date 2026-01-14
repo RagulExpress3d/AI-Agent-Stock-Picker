@@ -13,7 +13,8 @@
 3. Run the app:
    `npm run dev`
    
-🏛️ Council of Agents: AI Portfolio Strategist
+Council of Agents: AI Portfolio Strategist
+
 A sophisticated investment decision-support system that synthesizes institutional-grade market data with multi-agent generative reasoning. This prototype demonstrates how a "Council" of specialized AI agents can provide high-conviction equity recommendations across varied investment horizons.
 
 1. The Problem
