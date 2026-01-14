@@ -1,0 +1,7 @@
+{
+  "name": "AI Stock Portfolio Council",
+  "description": "A mobile-first investment prototype featuring three AI agents (Momentum, Value, Quality) that debate and recommend US stocks based on live market data.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
